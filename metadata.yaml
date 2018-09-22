@@ -1,16 +1,21 @@
 _repo: Physiology-and-histology-of-the-Cubomedus0xe6-including-Dr-FS-Conant-s-notes-on-the-physiolog__54276
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Conant, Franklin Story
     gutenberg_agent_id: '47779'
     url: http://www.gutenberg.org/2009/agents/47779
+covers:
+- cover_type: archival
+  image_path: 54276-h/images/cover.jpg
 creator:
   author:
     agent_name: Berger, Edward William
     gutenberg_agent_id: '47797'
     url: http://www.gutenberg.org/2009/agents/47797
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54276#Physiology-and-histology-of-the-Cubomedus0xe6-including-Dr-FS-Conant-s-notes-on-the-physiolog_
 gutenberg_issued: '2017-03-03'
 gutenberg_type: Text
 identifiers:
